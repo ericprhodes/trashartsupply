@@ -90,6 +90,7 @@ aside > div {
 	margin: 10px auto;
 	background: #AEC6CF;
 	min-height: 100px;
+	padding: 10px;
 }
 #logo {
     display: inline-block;
